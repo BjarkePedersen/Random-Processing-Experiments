@@ -1,0 +1,8 @@
+File to open:	(Enter number in second line. "0" to open nothing)
+0
+
+Conways_game_of_life_breeder.png.txt
+Untitled.png.txt
+small_breeder.png.txt
+big_breeder.png.txt
+game_of_lyf.png.txt

@@ -1,0 +1,5 @@
+File to open:	(Enter number in second line. "0" to open nothing)
+1
+
+Conways_game_of_life_breeder.png.txt
+Untitled.png.txt
